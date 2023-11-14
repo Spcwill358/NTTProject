@@ -1,3 +1,4 @@
 # NTTProject
 This is a project where I built a small business network.
-![Screenshot 2023-11-14 091130](https://github.com/Spcwill358/NTTProject/assets/88656329/1aef5fb8-1694-4917-a4c2-4700e12d3895)
+![Topology-Stage1 drawio](https://github.com/Spcwill358/NTTProject/assets/88656329/db43a751-6b71-4c96-a5a0-3d4e5a745bc6)
+
